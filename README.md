@@ -97,9 +97,6 @@ Displays detailed information about the selected workshop.
 ## How to Run
 
 1. Clone the repository:
-```bash
-git clone https://github.com/username/hinova-oficinas.git
-```
 
 2. Open the project in **Android Studio**
 

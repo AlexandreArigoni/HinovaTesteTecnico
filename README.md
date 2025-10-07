@@ -20,17 +20,10 @@ The application covers login functionality, session management, list display, fi
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](screenshots/sc01.png)
-
-### Home Screen
-![Home Screen](screenshots/sc02.png)
-
-### Details Screen
-![Details Screen](screenshots/sc03.png)
-
-### Recommendation Screen
-![Recommendation Screen](screenshots/sc04.png)
+<img src="screenshots/sc01.png" alt="Login Screen" width="150" style="margin-right:10px;">
+<img src="screenshots/sc02.png" alt="Home Screen" width="150" style="margin-right:10px;">
+<img src="screenshots/sc03.png" alt="Details Screen" width="150" style="margin-right:10px;">
+<img src="screenshots/sc04.png" alt="Recommendation Screen" width="150">
 
 ## Features
 
